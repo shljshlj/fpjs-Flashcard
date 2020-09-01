@@ -16,10 +16,11 @@
     "hyperscript-helpers": "^3.0.3",
     "ramda": "^0.25.0",
     "virtual-dom": "^2.1.1",
-    "webpack": "^4.41.6",
-    "webpack-dev-server": "^2.11.5"
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "serve": "^11.3.0"
+    "serve": "^11.3.2"
   }
 }
